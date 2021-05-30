@@ -1,1 +1,1 @@
-# cancer-detect
+# Histopathological Cancer Detection
