@@ -48,4 +48,4 @@ all the models.
 3. The provided notebook can be run step by step. 
 
 
-Puruse through our report for a detailed explaination on the dataset used, our approaches in tackling the challenge and analysis of each of our approaches.
+Peruse through our report for a detailed explaination on the dataset used, our approaches in tackling the challenge and analysis of each of our approaches.
